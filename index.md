@@ -10,3 +10,6 @@ while (x != 100)
   x++;
 }
 ```
+- [x] Complete this challenge
+- [ ] commit the changes
+- [ ] Rinse and repeat
